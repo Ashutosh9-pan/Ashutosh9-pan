@@ -71,19 +71,20 @@ certifications and professional journey.
 
 ## 📜 Certifications
 
+- Data Analytics Professional Certificate - Unified Mentor
 - Generative AI, LLM & RAG — GeeksforGeeks Skill Up
 - Full Stack Web Development — GeeksforGeeks Skill Up
 - Java Programming — SLOG Solutions
 - C++ Programming — SLOG Solutions
-- C# Programming — Udemy
+- C Programming for Beginners - Master the C Language - Udemy
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ashutosh9-pan&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh9-pan&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=Ashutosh9-pan&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ashutosh9-pan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -91,6 +92,10 @@ certifications and professional journey.
 <p align="center">
   <b>Open to AI/ML internships, entry-level software roles and collaborations.</b>
 </p>
+</p>
+
+---
+
 
 <!--
 **Ashutosh9-pan/Ashutosh9-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
