@@ -54,7 +54,7 @@ Computer Science Engineering graduate focused on building practical, production-
 <h3><b><u>💻 Programming</u></b></h3>
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
@@ -65,7 +65,7 @@ Computer Science Engineering graduate focused on building practical, production-
 <h3><b><u>🤖 AI & Data</u></b></h3>
 
 <p>
-<img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square" alt="Generative AI">
   <img src="https://img.shields.io/badge/LLM-6C63FF?style=flat-square" alt="LLM">
   <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG">
@@ -78,7 +78,7 @@ Computer Science Engineering graduate focused on building practical, production-
 <h3><b><u>🌐 Web & Backend</u></b></h3>
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
@@ -93,7 +93,7 @@ Computer Science Engineering graduate focused on building practical, production-
 <h3><b><u>📱 Mobile, Databases & Tools</u></b></h3>
 
 <p>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/XML-005FAD?style=flat-square" alt="XML">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
@@ -110,7 +110,7 @@ Computer Science Engineering graduate focused on building practical, production-
 <h3><b><u>🧠 Core CS</u></b></h3>
 
 <p>
-<img src="https://img.shields.io/badge/OOP-1E3A8A?style=flat-square" alt="OOP">
+  <img src="https://img.shields.io/badge/OOP-1E3A8A?style=flat-square" alt="OOP">
   <img src="https://img.shields.io/badge/CRUD-475569?style=flat-square" alt="CRUD">
   <img src="https://img.shields.io/badge/DSA-7C3AED?style=flat-square" alt="DSA">
   <img src="https://img.shields.io/badge/Debugging-B45309?style=flat-square" alt="Debugging">
@@ -120,73 +120,109 @@ Computer Science Engineering graduate focused on building practical, production-
 
 <h2><b><u>🚀 Featured Projects</u></b></h2>
 
-🎓 CampusResolve — Campus Complaint Management System
+Each project below is presented separately with its own stack, description, and links.
+
+🔷 01. 🎓 CampusResolve — Campus Complaint Management System
 
 Production-deployed full-stack platform with Student/Admin workflows, JWT/RBAC authentication, complaint CRUD, evidence uploads, assignment and status tracking, notifications, analytics, feedback, CSV export, OTP-based password recovery, and persistent storage.
 
 Tech: Node.js • Express.js • MySQL • JavaScript • JWT • Multer • Brevo API • Railway
 
-🔗 Live Demo
+<p>
+  <a href="https://campus-complaint-system-production.up.railway.app">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=railway&logoColor=white" alt="Live Demo">
+  </a>
+  <a href="https://github.com/Ashutosh9-pan/campus-complaint-system">
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+  </a>
+</p>
 
-💻 GitHub Repository
-
-🌿 VitaFit — AI Fitness Tracker
+🔷 02. 🌿 VitaFit — AI Fitness Tracker
 
 Android fitness application with authentication, workout tracking, statistics, reminders, PDF/CSV export, dark mode, and a Gemini AI assistant for chat, workout planning, diet guidance, recommendations, and progress analysis.
 
 Tech: Java • Android • Firebase • Gemini AI
 
-💻 GitHub Repository
+<p>
+  <a href="https://github.com/Ashutosh9-pan/VitaFit-AI-Fitness-Tracker">
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+  </a>
+  <a href="https://github.com/Ashutosh9-pan/VitaFit-AI-Fitness-Tracker/releases/latest">
+    <img src="https://img.shields.io/badge/DOWNLOAD_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+  </a>
+</p>
 
-📦 Download APK
-
-🌍 LanguageLearn — Multilingual Learning App
+🔷 03. 🌍 LanguageLearn — Multilingual Learning App
 
 Android learning app combining vocabulary, daily phrases, grammar lessons, quizzes, pronunciation, dictionary lookup, text-to-speech, multilingual content, progress tracking, and dark mode.
 
 Tech: Java • Android • SQLite • REST API • Text-to-Speech
 
-💻 GitHub Repository
+<p>
+  <a href="https://github.com/Ashutosh9-pan/CodeAlpha_LanguageLearningApp">
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+  </a>
+  <a href="https://github.com/Ashutosh9-pan/CodeAlpha_LanguageLearningApp/releases/latest">
+    <img src="https://img.shields.io/badge/DOWNLOAD_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+  </a>
+</p>
 
-📦 Download APK
-
-🧠 Flashcard Quiz App
+🔷 04. 🧠 Flashcard Quiz App
 
 Interactive Android flashcard study app with question/answer navigation, dark mode, and SQLite-backed CRUD for creating, editing, viewing, and deleting flashcards.
 
 Tech: Java • Android • SQLite • CRUD
 
-💻 GitHub Repository
+<p>
+  <a href="https://github.com/Ashutosh9-pan/CodeAlpha_FlashcardQuizApp">
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+  </a>
+</p>
 
-💬 QuoteSpark — Random Quote Generator
+🔷 05. 💬 QuoteSpark — Random Quote Generator
 
 Offline-first Android quote app with 80 curated quotes across 8 categories, favorites, saved quotes, copy/share, and persistent light/dark mode.
 
 Tech: Java • Android • Material UI • SharedPreferences
 
-💻 GitHub Repository
+<p>
+  <a href="https://github.com/Ashutosh9-pan/CodeAlpha_RandomQuoteGenerator">
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+  </a>
+  <a href="https://github.com/Ashutosh9-pan/CodeAlpha_RandomQuoteGenerator/releases/latest">
+    <img src="https://img.shields.io/badge/DOWNLOAD_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+  </a>
+</p>
 
-📦 Download APK
-
-✅ TaskFlow — Interactive Task Manager
+🔷 06. ✅ TaskFlow — Interactive Task Manager
 
 Responsive task manager with CRUD operations, search, filters, priorities, due dates, sorting, drag-and-drop reordering, progress statistics, theme persistence, and JSON backup/restore.
 
 Tech: JavaScript • HTML5 • CSS3 • LocalStorage
 
-🔗 Live Demo
+<p>
+  <a href="https://ashutosh9-pan.github.io/week2-task-manager/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Demo">
+  </a>
+  <a href="https://github.com/Ashutosh9-pan/week2-task-manager">
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+  </a>
+</p>
 
-💻 GitHub Repository
-
-💼 Professional Developer Portfolio
+🔷 07. 💼 Professional Developer Portfolio
 
 Responsive portfolio showcasing projects, skills, certifications, education, contact links, and a downloadable recruiter-friendly resume.
 
 Tech: Next.js • React • TypeScript • CSS • Vercel
 
-🔗 Live Website
-
-💻 GitHub Repository
+<p>
+  <a href="https://ashutosh-panwar-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/LIVE_WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website">
+  </a>
+  <a href="https://github.com/Ashutosh9-pan/Ashutosh-Panwar-Portfolio">
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+  </a>
+</p>
 
 <h2><b><u>🧩 Additional Project</u></b></h2>
 
@@ -247,8 +283,8 @@ Shri Guru Ram Rai Public School, Srinagar Garhwal • 2015 – 2016
 <h2><b><u>📊 GitHub Statistics</u></b></h2>
 
 <p align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=Ashutosh9-pan&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ashutosh9-pan&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=Ashutosh9-pan&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ashutosh9-pan&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 <div align="center">
