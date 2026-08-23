@@ -10,16 +10,16 @@ Computer Science Engineering graduate focused on building practical, production-
 
 <p>
   <a href="https://ashutosh-panwar-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-6C4CF1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-OPEN%20WEBSITE-6C4CF1?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Portfolio Website">
   </a>
   <a href="https://www.linkedin.com/in/ashutosh-panwar-5192951b8">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
   </a>
   <a href="https://github.com/Ashutosh9-pan">
-    <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile">
   </a>
   <a href="mailto:ashutoshpanwar07@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me">
   </a>
 </p>
 
@@ -130,10 +130,10 @@ Tech: Node.js • Express.js • MySQL • JavaScript • JWT • Multer • Bre
 
 <p>
   <a href="https://campus-complaint-system-production.up.railway.app">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=railway&logoColor=white" alt="Live Demo">
+    <img src="https://img.shields.io/badge/LIVE-OPEN%20DEMO-2563EB?style=for-the-badge&logo=railway&logoColor=white" alt="Open Live Demo">
   </a>
   <a href="https://github.com/Ashutosh9-pan/campus-complaint-system">
-    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+    <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Repository">
   </a>
 </p>
 
@@ -145,10 +145,10 @@ Tech: Java • Android • Firebase • Gemini AI
 
 <p>
   <a href="https://github.com/Ashutosh9-pan/VitaFit-AI-Fitness-Tracker">
-    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+    <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Repository">
   </a>
   <a href="https://github.com/Ashutosh9-pan/VitaFit-AI-Fitness-Tracker/releases/latest">
-    <img src="https://img.shields.io/badge/DOWNLOAD_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+    <img src="https://img.shields.io/badge/APK-GET%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Get APK">
   </a>
 </p>
 
@@ -160,10 +160,10 @@ Tech: Java • Android • SQLite • REST API • Text-to-Speech
 
 <p>
   <a href="https://github.com/Ashutosh9-pan/CodeAlpha_LanguageLearningApp">
-    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+    <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Repository">
   </a>
   <a href="https://github.com/Ashutosh9-pan/CodeAlpha_LanguageLearningApp/releases/latest">
-    <img src="https://img.shields.io/badge/DOWNLOAD_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+    <img src="https://img.shields.io/badge/APK-GET%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Get APK">
   </a>
 </p>
 
@@ -175,7 +175,7 @@ Tech: Java • Android • SQLite • CRUD
 
 <p>
   <a href="https://github.com/Ashutosh9-pan/CodeAlpha_FlashcardQuizApp">
-    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+    <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Repository">
   </a>
 </p>
 
@@ -187,10 +187,10 @@ Tech: Java • Android • Material UI • SharedPreferences
 
 <p>
   <a href="https://github.com/Ashutosh9-pan/CodeAlpha_RandomQuoteGenerator">
-    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+    <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Repository">
   </a>
   <a href="https://github.com/Ashutosh9-pan/CodeAlpha_RandomQuoteGenerator/releases/latest">
-    <img src="https://img.shields.io/badge/DOWNLOAD_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+    <img src="https://img.shields.io/badge/APK-GET%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Get APK">
   </a>
 </p>
 
@@ -202,10 +202,10 @@ Tech: JavaScript • HTML5 • CSS3 • LocalStorage
 
 <p>
   <a href="https://ashutosh9-pan.github.io/week2-task-manager/">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Demo">
+    <img src="https://img.shields.io/badge/LIVE-OPEN%20DEMO-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Open Live Demo">
   </a>
   <a href="https://github.com/Ashutosh9-pan/week2-task-manager">
-    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+    <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Repository">
   </a>
 </p>
 
@@ -217,10 +217,10 @@ Tech: Next.js • React • TypeScript • CSS • Vercel
 
 <p>
   <a href="https://ashutosh-panwar-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/LIVE_WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website">
+    <img src="https://img.shields.io/badge/PORTFOLIO-OPEN%20WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Portfolio Website">
   </a>
   <a href="https://github.com/Ashutosh9-pan/Ashutosh-Panwar-Portfolio">
-    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+    <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Repository">
   </a>
 </p>
 
@@ -232,32 +232,32 @@ Designed a CCTV-assisted monitoring concept with automated alerts to reduce manu
 
 <h2><b><u>💼 Experience</u></b></h2>
 
-🤖 Artificial Intelligence Intern — CodeAlpha
+🤖 Artificial Intelligence Intern — CodeAlpha  
 Remote | Jul 2026 – Present
 
-🌐 Web Development & Designing Intern — Oasis Infobyte
+🌐 Web Development & Designing Intern — Oasis Infobyte  
 Remote | Aug 2026 – Present
 
-📊 Data Science & Analytics Intern — The Developers Arena
+📊 Data Science & Analytics Intern — The Developers Arena  
 Remote | Aug 2026 – Present
 
-💻 Programming Trainee — SLOG Solutions Pvt. Ltd.
+💻 Programming Trainee — SLOG Solutions Pvt. Ltd.  
 Jul 2024 – Aug 2024
 
 <h2><b><u>🎓 Education</u></b></h2>
 
-🎓 B.Tech — Computer Science Engineering
-Institute of Technology, Gopeshwar • Aug 2023 – Aug 2026
+🎓 B.Tech — Computer Science Engineering  
+Institute of Technology, Gopeshwar • Aug 2023 – Aug 2026  
 Coursework completed; final result awaited.
 
-🏗️ Diploma — Civil Engineering
-Government Polytechnic, Srinagar Garhwal • Mar 2020 – Aug 2023
+🏗️ Diploma — Civil Engineering  
+Government Polytechnic, Srinagar Garhwal • Mar 2020 – Aug 2023  
 Uttarakhand Board of Technical Education • AutoCAD • Revit
 
-📘 Senior Secondary (Class XII) — PCM
+📘 Senior Secondary (Class XII) — PCM  
 Government Inter College, Srinagar Garhwal • Completed 2020
 
-🏫 High School
+🏫 High School  
 Shri Guru Ram Rai Public School, Srinagar Garhwal • 2015 – 2016
 
 <h2><b><u>📜 Certifications</u></b></h2>
