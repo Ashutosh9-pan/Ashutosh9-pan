@@ -10,16 +10,16 @@ Computer Science Engineering graduate focused on building practical, production-
 
 <p>
   <a href="https://ashutosh-panwar-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-OPEN%20WEBSITE-6C4CF1?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Portfolio Website">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-6C4CF1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/ashutosh-panwar-5192951b8">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Ashutosh9-pan">
-    <img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile">
+    <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:ashutoshpanwar07@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -130,10 +130,10 @@ Tech: Node.js • Express.js • MySQL • JavaScript • JWT • Multer • Bre
 
 <p>
   <a href="https://campus-complaint-system-production.up.railway.app">
-    <img src="https://img.shields.io/badge/LIVE-OPEN%20DEMO-2563EB?style=for-the-badge&logo=railway&logoColor=white" alt="Open Live Demo">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=railway&logoColor=white" alt="Live Demo">
   </a>
   <a href="https://github.com/Ashutosh9-pan/campus-complaint-system">
-    <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Repository">
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
   </a>
 </p>
 
@@ -145,10 +145,10 @@ Tech: Java • Android • Firebase • Gemini AI
 
 <p>
   <a href="https://github.com/Ashutosh9-pan/VitaFit-AI-Fitness-Tracker">
-    <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Repository">
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
   </a>
   <a href="https://github.com/Ashutosh9-pan/VitaFit-AI-Fitness-Tracker/releases/latest">
-    <img src="https://img.shields.io/badge/APK-GET%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Get APK">
+    <img src="https://img.shields.io/badge/DOWNLOAD_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
   </a>
 </p>
 
@@ -160,10 +160,10 @@ Tech: Java • Android • SQLite • REST API • Text-to-Speech
 
 <p>
   <a href="https://github.com/Ashutosh9-pan/CodeAlpha_LanguageLearningApp">
-    <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Repository">
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
   </a>
   <a href="https://github.com/Ashutosh9-pan/CodeAlpha_LanguageLearningApp/releases/latest">
-    <img src="https://img.shields.io/badge/APK-GET%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Get APK">
+    <img src="https://img.shields.io/badge/DOWNLOAD_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
   </a>
 </p>
 
@@ -175,7 +175,7 @@ Tech: Java • Android • SQLite • CRUD
 
 <p>
   <a href="https://github.com/Ashutosh9-pan/CodeAlpha_FlashcardQuizApp">
-    <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Repository">
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
   </a>
 </p>
 
@@ -187,10 +187,10 @@ Tech: Java • Android • Material UI • SharedPreferences
 
 <p>
   <a href="https://github.com/Ashutosh9-pan/CodeAlpha_RandomQuoteGenerator">
-    <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Repository">
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
   </a>
   <a href="https://github.com/Ashutosh9-pan/CodeAlpha_RandomQuoteGenerator/releases/latest">
-    <img src="https://img.shields.io/badge/APK-GET%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Get APK">
+    <img src="https://img.shields.io/badge/DOWNLOAD_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
   </a>
 </p>
 
@@ -202,10 +202,10 @@ Tech: JavaScript • HTML5 • CSS3 • LocalStorage
 
 <p>
   <a href="https://ashutosh9-pan.github.io/week2-task-manager/">
-    <img src="https://img.shields.io/badge/LIVE-OPEN%20DEMO-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Open Live Demo">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Demo">
   </a>
   <a href="https://github.com/Ashutosh9-pan/week2-task-manager">
-    <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Repository">
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
   </a>
 </p>
 
@@ -217,10 +217,10 @@ Tech: Next.js • React • TypeScript • CSS • Vercel
 
 <p>
   <a href="https://ashutosh-panwar-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-OPEN%20WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Portfolio Website">
+    <img src="https://img.shields.io/badge/LIVE_WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website">
   </a>
   <a href="https://github.com/Ashutosh9-pan/Ashutosh-Panwar-Portfolio">
-    <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Repository">
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
   </a>
 </p>
 
