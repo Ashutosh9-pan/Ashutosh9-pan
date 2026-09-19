@@ -97,7 +97,7 @@
 
 AI-focused inbox workflow project for intelligent email triage and productivity.
 
-**Stack:** Python • AI/ML • NLP
+**Stack:** Python • Flask • Angular • AI/ML
 
 [Repository →](https://github.com/Ashutosh9-pan/Clinevo-smart-inbox-assistant)
 
@@ -107,9 +107,9 @@ AI-focused inbox workflow project for intelligent email triage and productivity.
 ### 🛡️ RazorGuard-AI
 **AI Application**
 
-Model-driven application with an interactive dashboard and practical AI workflow.
+Machine-learning application built around a Random Forest model and an interactive Flask workflow.
 
-**Stack:** Python • Machine Learning • AI
+**Stack:** Python • Machine Learning • Random Forest • Flask
 
 [Repository →](https://github.com/Ashutosh9-pan/RazorGuard-AI)
 
@@ -206,7 +206,7 @@ Vocabulary, grammar, quizzes, pronunciation, dictionary lookup, text-to-speech a
 |---|---|---|
 | 💻 Full Stack Java Developer Intern | **The Developers Arena** | Aug 2026 – Present |
 | 🌐 Web Development & Designing Intern | **Oasis Infobyte** | Aug 2026 – Present |
-| 🤖 Artificial Intelligence Intern | **CodeAlpha** | Aug 2026 – Present |
+| 🤖 Artificial Intelligence Intern | **CodeAlpha** | Aug 2026 |
 | 🧑‍💻 Programming Trainee | **SLOG Solutions Pvt. Ltd.** | Jul 2024 – Aug 2024 |
 
 ---
