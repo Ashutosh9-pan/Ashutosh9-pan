@@ -247,6 +247,10 @@ Government Polytechnic, Srinagar Garhwal • 2020 – 2023
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh9-pan&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh9-pan&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph">
+</p>
+
 ---
 
 ## 📈 Current Focus
