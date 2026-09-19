@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#111827"/>
+    <stop offset="55%" stop-color="#1b1033"/>
+    <stop offset="100%" stop-color="#071d2b"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#a855f7"/>
+    <stop offset="50%" stop-color="#06b6d4"/>
+    <stop offset="100%" stop-color="#22c55e"/>
+  </linearGradient>
+</defs>
+<rect width="900" height="260" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="898" height="258" rx="21" fill="none" stroke="#334155"/>
+<text x="42" y="48" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="700">📊 GitHub Activity Snapshot</text>
+<rect x="42" y="64" width="816" height="3" rx="2" fill="url(#accent)"/>
+<g font-family="Arial, sans-serif" text-anchor="middle">
+  <text x="180" y="130" fill="#a855f7" font-size="38" font-weight="700">201</text>
+  <text x="180" y="158" fill="#cbd5e1" font-size="15">Total Contributions</text>
+  <text x="180" y="182" fill="#64748b" font-size="12">Aug 2024 → Present</text>
+  <line x1="300" y1="92" x2="300" y2="205" stroke="#334155"/>
+  <text x="450" y="130" fill="#06b6d4" font-size="38" font-weight="700">4 🔥</text>
+  <text x="450" y="158" fill="#cbd5e1" font-size="15">Current Streak</text>
+  <text x="450" y="182" fill="#64748b" font-size="12">Sep 16 → Sep 19</text>
+  <line x1="600" y1="92" x2="600" y2="205" stroke="#334155"/>
+  <text x="720" y="130" fill="#22c55e" font-size="38" font-weight="700">8</text>
+  <text x="720" y="158" fill="#cbd5e1" font-size="15">Longest Streak</text>
+  <text x="720" y="182" fill="#64748b" font-size="12">Aug 18 → Aug 25</text>
+</g>
+<text x="450" y="228" fill="#94a3b8" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">AI/ML • Java • Python • JavaScript • TypeScript • Kotlin • Spring Boot • React</text>
+</svg>
