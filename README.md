@@ -231,7 +231,6 @@ Government Polytechnic, Srinagar Garhwal • 2020 – 2023
 <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Development-GeeksforGeeks-0F766E?style=flat-square" alt="Full Stack">
 <img src="https://img.shields.io/badge/Java%20Training-SLOG-ED8B00?style=flat-square" alt="Java Training">
 <img src="https://img.shields.io/badge/C%2B%2B%20Training-SLOG-00599C?style=flat-square" alt="C++ Training">
-<img src="https://img.shields.io/badge/C%23%20Programming-Udemy-512BD4?style=flat-square" alt="C Sharp">
 <img src="https://img.shields.io/badge/C%20Programming-Udemy-A8B9CC?style=flat-square" alt="C Programming">
 </p>
 
