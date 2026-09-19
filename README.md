@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Ashutosh%20Panwar&fontSize=52&fontAlignY=36&desc=AI%2FML%20%7C%20Full-Stack%20%7C%20Android%20%7C%20Data&descAlignY=60&animation=fadeIn" alt="Ashutosh Panwar header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=210&section=header&text=ASHUTOSH%20PANWAR&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20%7C%20FULL-STACK%20%7C%20ANDROID%20%7C%20DATA&descAlignY=61&descSize=18&animation=fadeIn" alt="Ashutosh Panwar animated header">
 
 # 👋 Hi, I'm Ashutosh Panwar
 
-### AI/ML Developer • Full-Stack Developer • Android Developer • Data Analyst
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=7F00FF&center=true&vCenter=true&width=760&lines=AI%2FML+Developer+%7C+Full-Stack+Developer;Android+Developer+%7C+Data+Analyst;Building+Practical+AI+%26+Software+Solutions;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping+%F0%9F%9A%80" alt="Animated typing introduction">
 
-**I build practical software that turns ideas into working products.**
+**⚡ I build practical software that turns ideas into working products.**
 
 <p>
   <a href="https://ashutosh-panwar-portfolio.vercel.app">
@@ -26,6 +26,8 @@
 ---
 
 ## 🧭 About Me
+
+> 💡 **Developer focused on AI/ML, full-stack engineering, Android and data-driven applications.**
 
 <table>
 <tr>
@@ -67,6 +69,8 @@
 
 ## 🛠️ Tech Stack
 
+<p align="center"><b>💻 BUILD &nbsp; • &nbsp; 🤖 AI &nbsp; • &nbsp; 📱 MOBILE &nbsp; • &nbsp; ☁️ DEPLOY</b></p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,kotlin,react,nextjs,nodejs,express,spring,mysql,mongodb,postgres,android,firebase,git,github,postman&perline=10" alt="Technology stack">
 </p>
@@ -87,6 +91,8 @@
 ---
 
 ## 🚀 Featured Projects
+
+<p align="center">⭐ <b>Selected work across AI/ML, backend engineering, full-stack apps and Android</b> ⭐</p>
 
 <table>
 <tr>
@@ -202,6 +208,8 @@ Vocabulary, grammar, quizzes, pronunciation, dictionary lookup, text-to-speech a
 
 ## 💼 Experience
 
+<p align="center">💼 <b>Experience across AI, web development and Java engineering</b></p>
+
 | Role | Organization | Period |
 |---|---|---|
 | 💻 Full Stack Java Developer Intern | **The Developers Arena** | Aug 2026 – Present |
@@ -223,6 +231,8 @@ Government Polytechnic, Srinagar Garhwal • 2020 – 2023
 
 ## 🏅 Certifications
 
+<p align="center">🏆 <b>Continuous learning across AI, data, web and programming</b></p>
+
 <p align="center">
 <img src="https://img.shields.io/badge/AI%20Tools%20%26%20Claude%20Workshop-Be10x-6C4CF1?style=flat-square" alt="AI Tools and Claude Workshop">
 <img src="https://img.shields.io/badge/Artificial%20Intelligence%20Internship-CodeAlpha-412991?style=flat-square" alt="AI Internship">
@@ -239,16 +249,16 @@ Government Polytechnic, Srinagar Garhwal • 2020 – 2023
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashutosh9-pan&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh9-pan&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashutosh9-pan&show_icons=true&hide_border=true&theme=radical&rank_icon=github" alt="GitHub stats">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh9-pan&layout=compact&hide_border=true&theme=radical" alt="Top languages">
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh9-pan&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh9-pan&theme=radical&hide_border=true" alt="GitHub streak">
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh9-pan&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh9-pan&theme=react-dark&hide_border=true&area=true" alt="GitHub contribution activity graph">
 </p>
 
 ---
