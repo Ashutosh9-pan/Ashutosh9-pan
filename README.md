@@ -171,7 +171,7 @@ Android fitness app with tracking, statistics, reminders, exports and Gemini AI 
 
 **Stack:** Java • Android • Firebase • Gemini AI
 
-[Repository →](https://github.com/Ashutosh9-pan/CodeAlpha_FitnessTrackerApp)
+[Repository →](https://github.com/Ashutosh9-pan/VitaFit-AI-Fitness-Tracker)
 
 </td>
 </tr>
