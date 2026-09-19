@@ -249,16 +249,11 @@ Government Polytechnic, Srinagar Garhwal • 2020 – 2023
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashutosh9-pan&show_icons=true&hide_border=true&theme=radical&rank_icon=github" alt="GitHub stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh9-pan&layout=compact&hide_border=true&theme=radical" alt="Top languages">
+  <img width="95%" src="./assets/github-activity.svg" alt="GitHub activity snapshot">
 </p>
 
 <p align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh9-pan&theme=radical&hide_border=true" alt="GitHub streak">
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh9-pan&theme=react-dark&hide_border=true&area=true" alt="GitHub contribution activity graph">
 </p>
 
 ---
